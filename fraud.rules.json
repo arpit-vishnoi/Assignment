@@ -1,0 +1,8 @@
+{
+  "amountHighThreshold": 10000,
+  "amountHighImpact": 0.35,
+  "suspiciousDomains": [".ru", "test.com", ".cn"],
+  "suspiciousDomainImpact": 0.35,
+  "jitter": 0.05
+}
+
